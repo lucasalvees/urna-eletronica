@@ -39,4 +39,11 @@ Inicio
 
       limpatela
 
+      escreval("=========ZERÉSIMA=========")
+      escreval(numeroCandidato1, " - ", nomeCandidato1, ":", contCandidato1)
+      escreval(numeroCandidato1, " - ", nomeCandidato2, ":", contCandidato2)
+      escreval(numeroCandidato1, " - ", nomeCandidato3, ":", contCandidato3)
+      escreval(" 0 - Brancos: ", contBranco)
+      escreval(" 0 - Nulos: ", contNulo)
+
 Fimalgoritmo
