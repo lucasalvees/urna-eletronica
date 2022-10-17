@@ -60,6 +60,18 @@ Inicio
       
       repita
             repita
+                  limpatela
+                  
+                  escreval(numeroCandidato1, " - ", nomeCandidato1)
+                  escreval(numeroCandidato2, " - ", nomeCandidato2)
+                  escreval(numeroCandidato3, " - ", nomeCandidato3)
+                  escreval(" 0 - Branco")
+                  escreval(" ")
+                  
+                  escreva("Informe o número do canditado:")
+                  leia(voto)
+                  escreva(" ")
+                  
                   escreva("Deseja confirmar o seu voto? (s) ou (n)")
                   leia(resposta)
                   
