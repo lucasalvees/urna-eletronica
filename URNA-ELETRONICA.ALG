@@ -57,5 +57,17 @@ Inicio
       timer(0)
 
       limpatela
+      
+      repita
+            repita
+                  escreva("Deseja confirmar o seu voto? (s) ou (n)")
+                  leia(resposta)
+                  
+            ate(resposta = "s")
+
+            escreva("Ainda existe eleitor para votar? (s) ou (n)")
+            leia(resposta)
+            
+      ate(resposta <> "s")
 
 Fimalgoritmo
